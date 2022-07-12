@@ -35,3 +35,6 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### React Build Copy ###
+**/src/main/resources/static/*
