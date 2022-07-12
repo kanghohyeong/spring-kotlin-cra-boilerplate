@@ -24,7 +24,7 @@ $ gradle bootRun
 ```
 or if there is no gradle
 ```bash
-$ gradlew bootRun
+$ ./gradlew bootRun
 ```
 
 ### Note
